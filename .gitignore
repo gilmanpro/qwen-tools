@@ -1,0 +1,8 @@
+﻿.tmp/
+.cache/
+__pycache__/
+*.pyc
+.env
+.uso_diario.json
+node_modules/
+.qwen_uso_diario.json
